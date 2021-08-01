@@ -1,0 +1,32 @@
+level 01. plate
+level 02. bento
+level 03. #fancy
+level 04. plate apple
+level 05. #fancy pickle
+level 06. .small
+level 07. orange.small
+level 08. bento orange.small
+level 09. plate, bento
+level 10. *
+level 11. plate *
+level 12. plate + apple
+level 13. bento ~ pickle
+level 14. plate > apple
+level 15. orange:first-child
+level 16. plate apple:only-child, plate pickle:only-child
+level 17. .small:last-child
+level 18. plate:nth-child(3)
+level 19. bento:nth-last-child(3)
+level 20. apple:first-of-type
+level 21. plate:nth-of-type(even)
+level 22. plate:nth-of-type(2n+3)
+level 23. plate apple:only-of-type
+level 24. orange:last-of-type, apple:last-of-type
+level 25. bento:empty
+level 26. apple:not(.small)
+level 27. *[for]
+level 28. plate[for]
+level 29. bento[for="Vitaly"]
+level 30. *[for^="Sa"]
+level 31. *[for$="ato"]
+level 32. bento[for*="obb"]
